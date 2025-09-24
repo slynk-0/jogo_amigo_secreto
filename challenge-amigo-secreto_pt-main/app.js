@@ -30,8 +30,8 @@ function atualizarListaAmigos() {
 }
 
 function sortearAmigo() {
-    if (amigos.length === 0) {
-        alert('Adicione pelo menos um amigo para sortear.');
+    if (amigos.length <= 1) {
+        alert('adicione pelo menos dois amigos pra sortear.');
         return;
     }
     let indiceAleatorio = Math.floor(Math.random() * amigos.length);
@@ -43,4 +43,5 @@ function sortearAmigo() {
     let resultadoElemento = document.getElementById('resultado');
 
     resultadoElemento.innerHTML = `<li class="result-list">Amigo sorteado: ${amigoSorteado}</li>`;
+
 }
