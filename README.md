@@ -22,7 +22,9 @@ Um jogo divertido feito como um desafio para o Challenge amigo secreto, da Alura
 ### 🚀 Como Usar
 **Clone o repositório:** _git clone https://github.com/seu-usuario/jogo_amigo_secreto.git_
 
-Então, simplesmente abra o arquivo index.html no seu navegador web preferido (Chrome, Firefox, Edge, etc.).
+Então, simplesmente abra o arquivo index.html no seu navegador web preferido (Chrome, Firefox, Edge, etc.)
+
+É isso :)
 
 **Adicione os nomes:**
 Digite os nomes dos participantes um por um e clique em "Adicionar".
