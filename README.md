@@ -20,14 +20,12 @@ Um jogo divertido feito como um desafio para o Challenge amigo secreto, da Alura
 - **Validação:** O aplicativo avisa se você tentar sortear sem adicionar nomes ou se tentar adicionar um nome vazio.
 
 ### 🚀 Como Usar
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/jogo_amigo_secreto.git
+**Clone o repositório:** _git clone https://github.com/seu-usuario/jogo_amigo_secreto.git_
 
 Então, simplesmente abra o arquivo index.html no seu navegador web preferido (Chrome, Firefox, Edge, etc.).
 
-Adicione os nomes:
+**Adicione os nomes:**
 Digite os nomes dos participantes um por um e clique em "Adicionar".
 
-Sorteie:
+**Sorteie:**
 Quando todos os nomes estiverem na lista, clique em "Sortear Amigo" para ver o resultado.
