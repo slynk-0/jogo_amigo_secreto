@@ -24,10 +24,10 @@ Um jogo divertido feito como um desafio para o Challenge amigo secreto, da Alura
 
 Então, simplesmente abra o arquivo index.html no seu navegador web preferido (Chrome, Firefox, Edge, etc.)
 
-É isso :)
-
 **Adicione os nomes:**
 Digite os nomes dos participantes um por um e clique em "Adicionar".
 
 **Sorteie:**
 Quando todos os nomes estiverem na lista, clique em "Sortear Amigo" para ver o resultado.
+
+É isso :)
